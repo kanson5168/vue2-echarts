@@ -9,6 +9,11 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
+开启node服务器
+cd src
+cd server
+nodemon .\index.js
+启动项目
 npm run dev
 ```
 
